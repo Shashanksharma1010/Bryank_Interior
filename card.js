@@ -106,12 +106,12 @@ newDb = {
     },
 
     'Internal': {
-        'heading':"Internal electrification (Lighting/Power outlets/DBs & Internal Panels/Earthing system/Ups systems)",
+        'heading':"Internal electrification",
         'body': "Internal electrification is essential for the safe and effective distribution of electrical power within a building. This process involves the careful design, installation, and maintenance of electrical systems, including wiring, power distribution, lighting, switches, and outlets. At Bryank Interiors, we provide internal electrification services designed to meet your building's electrical needs with reliability and good quality. Our approach ensures that every aspect of your electrical system—from wiring to lighting—is handled with care and precision."
     },
 
     'External': {
-        'heading':"External electrification (HT Sub-station/Main LT Panels/Earthing system/DG/EB/CEIG Clearances)",
+        'heading':"External electrification",
         'body': 'At Bryank Interiror, we specialize in external electrification services that deliver reliable and good quality solutions for your property. Our focus is on ensuring that your outdoor electrical systems are both effective and durable, meeting all your needs with a dependable approach.'
     },
 
