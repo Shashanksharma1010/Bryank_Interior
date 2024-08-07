@@ -497,7 +497,7 @@ footer {
 }
 
 /* footer icons */
-.fa-facebook , .fa-twitter, .fa-instagram, .fa-whatsapp, fa-linkedin {
+.fa-facebook , .fa-twitter, .fa-instagram, .fa-whatsapp, .fa-linkedin {
     background: var(--theme-color);
     font-size: 5rem;
     padding: 1rem;
